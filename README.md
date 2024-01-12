@@ -17,11 +17,11 @@ the player flips them back over, and it becomes the next player's turn.
 The player with the most matches at the end of the game is decared the winner.
 
 Implementation Algorithm:
-Step 1: Each emoji is given a code. Time counter is set on when game commences.
-Step 2: For each click on the card the emoji is set visible using mouse event.
-Step 3: The opened card emoji code is compared with consequent next opening emoji from another card.
-Step 4: If both are same, card visibility is made true. Static variable counter is incremented, which was initially 0.
-Step 5: Else card visibility is false. 
-Step 6: Game completes when counter variable becomes 8(totally 16 squares in our game).
+1. Each emoji is given a code. Time counter is set on when game commences.
+2. For each click on the card the emoji is set visible using mouse event.
+3. The opened card emoji code is compared with consequent next opening emoji from another card.
+4. If both are same, card visibility is made true. Static variable counter is incremented, which was initially 0.
+5. Else card visibility is false. 
+6. Game completes when counter variable becomes 8(totally 16 squares in our game).
 
 
