@@ -1,5 +1,7 @@
 Project: Memory IQ Game
+
 This game was developed using HTML,CSS,and Javascript.
+
 Developed By:
 Ajith Kumar S
 Prabakaran K
